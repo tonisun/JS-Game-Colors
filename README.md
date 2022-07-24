@@ -7,4 +7,5 @@ Just try it !
 
 ![Screenshot](/out/assets/images/GameScreenshot.png)
 
-![Flow Diagrame](/out/assets/images/game.svg)
+## VSCode Plug-In Flowmaker
+[![Flow Diagrame](/out/assets/images/game.svg)](https://www.youtube.com/watch?v=ySW2ejs6f84)
