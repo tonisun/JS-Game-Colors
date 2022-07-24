@@ -1,4 +1,11 @@
 "use strict"
+/**
+ * My First Game in JavaScript
+ * 
+ * @author ToniSun 
+ */
+
+
 
 let squareNumb = 9
 
