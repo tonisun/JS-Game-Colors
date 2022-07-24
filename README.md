@@ -6,3 +6,5 @@ Just try it !
 **FIND THE RIGHT COLOUR**
 
 ![Screenshot](/out/assets/images/GameScreenshot.png)
+
+![Flow Diagrame](/out/assets/images/game.svg)
